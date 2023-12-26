@@ -1,0 +1,12 @@
+name: PrivateMessaging
+version: '${project.version}'
+main: be.mvpee.Main
+api-version: '1.20'
+authors: [MVPee]
+description: Exchange of private message
+website: www.mvpee.be
+commands:
+  message:
+  m:
+  reply:
+  r:
